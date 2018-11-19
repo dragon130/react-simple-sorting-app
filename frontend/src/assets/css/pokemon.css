@@ -1,0 +1,46 @@
+.pokemon-list-row {
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+
+.pokemon-list-column {
+    flex: 1 0 20%;
+    background:#F2F2F2;
+    border-radius: 5px;
+    padding:20px;
+    margin:15px;
+    position: relative;
+}
+
+.pokemon-image-cont
+{
+    text-align: center;
+}
+
+.pokemon-id-cont  h3
+{
+    font-family:Roboto Condensed;
+    font-size:16px;
+    color:#919191;
+    padding-bottom:20px;
+    border-bottom:1px solid #e2e2e2;
+}
+
+.pokemon-name-cont h4
+{
+    font-family:Roboto Condensed;
+    font-size:22px;
+    color:#313131;
+}
+
+.pokemon-level-cont h5
+{
+    font-family:Roboto Condensed;
+    font-size:16px;
+    background:#fd7d24;
+    padding:10px 30px;
+    border-radius:30px;
+    width:50px;
+    color:#fff;
+}

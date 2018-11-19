@@ -1,0 +1,23 @@
+.filter-cont
+{
+    display:flex;
+    justify-content: flex-end;
+    padding-right:25px;
+    flex-wrap: wrap;
+}
+
+.filter-cont select
+{
+    margin-top:15px;
+    height:30px;
+    width:100px;
+    font-family:Roboto Condensed;   
+    font-size:14px;
+}
+
+.filter-cont h3
+{
+    font-family:Roboto Condensed;
+    font-family:16px;
+    margin-right:25px;
+}
